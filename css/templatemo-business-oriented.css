@@ -466,7 +466,3 @@ svg display */
     margin: auto;
     bottom: 53%;
 }
-.btn-primary.tm-logo-text1.hero-btn{
-    border: 2px solid red;
-    overflow-wrap: break-word;
-}
